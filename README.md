@@ -14,15 +14,22 @@ Hhenaor ❤ Open source
 ## Full guide
 
 ### 2025 1
+> [!WARNING]
+> ACT1 It's unfinished and may not be finished.
+
 - Web software development 
-  - Activity 1 ***wip!***
+  - Activity 1 
     - Create a MVC PHP based app
     - https://github.com/hhenaor/DSW_Act1
     - PHP
+  - Activity 2 **(WIP!)**
+    - Create a MVC JAVA/JSP based app
+    - https://github.com/hhenaor/DSW_Act2
+    - JAVA/JSP
 
 ### 2024 1
 
-- Data bases I
+- Databases I
   - Activity 4
     - Using multiples langs, connect to a PostgreSQL and create a "CRUDL" CLI based tool 
     - JavaScript: https://github.com/hhenaor/DBI-Act4-JavaScript
