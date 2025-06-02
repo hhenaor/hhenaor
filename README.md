@@ -7,7 +7,16 @@
 > 
 > In “legal” terms, you are free to view, copy, distribute and modify each project. Any work based on these must maintain the same GPLv3 license. You also have to give credit to the original project. 
 
-Hhenaor ❤ Open source
+hhenaor / [hppsrc](https://github.com/hppsrc) ❤ Open source
+
+---
+
+> [!NOTE]
+> Last update: **01/06/2025**
+>
+> I'm currently working on the repositories
+> - DSW: https://github.com/hhenaor/DSW_Act3
+> - BD2: https://github.com/hhenaor/BD2-Act3-Act1
 
 ---
 
@@ -22,10 +31,20 @@ Hhenaor ❤ Open source
     - Create a MVC PHP based app
     - https://github.com/hhenaor/DSW_Act1
     - PHP
-  - Activity 2 **(WIP!)**
+  - Activity 2
     - Create a MVC JAVA/JSP based app
     - https://github.com/hhenaor/DSW_Act2
     - JAVA/JSP
+  - Activity 3
+    - Create a MVC JAVA/SpringBoot based app
+    - https://github.com/hhenaor/DSW_Act3
+    - SpringBoot
+
+- Databases 2 
+  - Activity 3
+    - Create an TRANSACTION movie control app with MySQL and Java
+    - https://github.com/hhenaor/BD2-Act3-Act1
+    - Java
 
 ### 2024 1
 
@@ -46,7 +65,7 @@ Hhenaor ❤ Open source
     - Python
    
 > [!NOTE]
-> Crossed out are considered by me as inferior
+> Crossed out are considered by me as inferior.
 
 - Data structure (23 1 & 2)
   - Activity 1
