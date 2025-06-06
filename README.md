@@ -12,11 +12,11 @@ hhenaor / [hppsrc](https://github.com/hppsrc) ❤ Open source
 ---
 
 > [!NOTE]
-> Last update: **01/06/2025**
+> Last update: **06/06/2025**
 >
 > I'm currently working on the repositories
 > - DSW: https://github.com/hhenaor/DSW_Act3
-> - BD2: https://github.com/hhenaor/BD2-Act3-Act1
+> - BD2: https://github.com/hhenaor/BD2-Act3-Act3
 
 ---
 
@@ -44,6 +44,9 @@ hhenaor / [hppsrc](https://github.com/hppsrc) ❤ Open source
   - Activity 3
     - Create an TRANSACTION movie control app with MySQL and Java
     - https://github.com/hhenaor/BD2-Act3-Act1
+    - https://github.com/hhenaor/BD2-Act3-Act2
+    - https://github.com/hhenaor/BD2-Act3-Act3 - ***WIP***
+    - https://github.com/hhenaor/BD2-Act3-Act4 - ***WIP***
     - Java
 
 ### 2024 1
