@@ -1,5 +1,10 @@
 # Horacio Henao UDC GitHub
 
+> [!WARNING]
+> This account and its repositories will be transferred to an organization account in approximately mid-2025.
+>
+> This means that many links to these repositories, projects, deploys, etc., will probably not work (although it is not likely).
+
 > [!IMPORTANT]
 > Although (most of) the projects dont have a LICENSE file in their repository, ALL PROJECTS ARE OPEN SOURCE BASED ON THE GPLv3 LICENSE -> https://www.gnu.org/licenses/gpl-3.0.html
 > 
@@ -12,10 +17,9 @@ hhenaor / [hppsrc](https://github.com/hppsrc) ❤ Open source
 ---
 
 > [!NOTE]
-> Last update: **06/06/2025**
->
-> I'm currently working on the repositories
-> - DSW: https://github.com/hhenaor/DSW_Act3
+> Last update: **12/06/2025**
+> 
+> I'm currently free!
 
 ---
 
